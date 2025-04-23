@@ -1,7 +1,7 @@
 # Weather App 🌦️
 ### Fetches weather data of valid locations using openweather API 
 <h4>
-  Live preview can be found <a href="https://fatrixienicolieopetina.github.io/weather-app/">here</a>
+  Live preview can be found <a href="https://niicoolest.github.io/weather-app/">here</a>
 </h4>
 Entry to TOP weather app project
 
